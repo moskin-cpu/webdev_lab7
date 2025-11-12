@@ -6,7 +6,7 @@ function init() {
   const output = document.getElementById('textoutput');
 
   // Replace "YourName" with your actual name (example: "Debarlaben")
-  const YOUR_NAME = 'YourName';
+  const YOUR_NAME = 'Mark Oskin';
 
   // Add click event listener to the "Alert Me" div
   button.addEventListener('click', function () {
